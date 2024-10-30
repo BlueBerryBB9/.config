@@ -142,7 +142,7 @@
             "critical": 20
         },
         "format": "{icon}",
-        "format-charging": "",
+        "format-charging": "^",
         "format-plugged": "",
         // "format-good": "", // An empty format will hide the module
         // "format-full": "",
